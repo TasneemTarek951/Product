@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DesignPatern_Assignment</string>
+    <string name="Title">Title</string>
+    <string name="price">Price</string>
+    <string name="Brand">Brand</string>
+    <string name="Rating">Rating</string>
+    <string name="Description">Descript</string>
+</resources>
